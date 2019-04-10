@@ -1,0 +1,14 @@
+{
+    "name": "hearthigen/hearthigen-gmod-bans-web",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kanalumaddela",
+            "email": "git@maddela.org"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
